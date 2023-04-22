@@ -50,7 +50,7 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 **https://www.pluralsight.com/guides/cleaning-up-data-from-outliers**
 
 #### **SMOTE:**
-**https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/**
+#### **https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/**
 ---
 
 ### **Decision Tree:**
