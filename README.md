@@ -2,7 +2,8 @@
 ## About
 ### This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on patient data from [kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset), for stroke prediction.
 
-### Please view the source code [HERE](https://github.com/NAIRBS/DSAI-PROJECT-GRP-8/blob/main/DSAI_LAB_PROJECT.ipynb).
+### Please view the source code [here](https://github.com/NAIRBS/DSAI-PROJECT-GRP-8/blob/main/DSAI_LAB_PROJECT.ipynb).
+### Please view the presentation material [here](https://github.com/NAIRBS/DSAI-PROJECT-GRP-8/tree/main/Presentation).
 
 ## Contributors
 * #### @NAIRBS (Brian Soh) - Data Extraction, Data Visualization, Random Forests, GridSearch
