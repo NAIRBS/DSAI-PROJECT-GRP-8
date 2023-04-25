@@ -11,7 +11,7 @@
 * #### Angelo - Categorical Encoding, Decision Trees
 
 ## Problem Definition
-### Can we use one’s lifestyle to predict if they have a stroke?
+### Can we use one’s lifestyle to predict if they will have a stroke?
 
 ## Models Used
 1. ### Decision Tree
